@@ -1,0 +1,2 @@
+{{ 'your-javascript-file.js' | asset_url | script_tag }}
+
